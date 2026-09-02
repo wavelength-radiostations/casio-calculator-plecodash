@@ -29,9 +29,9 @@ direction_characters = ["^", "v", "<", ">"]  # up, down, left, right - the head
 algae_char = "$"
 debris_char = "#"
 
-# Small grid so a full frame fits on the calculator's console.
+# Small grid so a full frame fits on the calculator's console. change if you cant see all
 horizontal = 14
-vertical = 6
+vertical = 5
 
 positions_x = [horizontal // 2]
 positions_y = [vertical // 2]
