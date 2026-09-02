@@ -30,7 +30,7 @@ algae_char = "$"
 debris_char = "#"
 
 # Small grid so a full frame fits on the calculator's console.
-horizontal = 10
+horizontal = 14
 vertical = 6
 
 positions_x = [horizontal // 2]
